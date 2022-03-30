@@ -1,7 +1,7 @@
 # Publications
 
 ## Journal Papers:
-- J. Bojato, M. Jimeno, R. Polanco, "Password Guessability as a Service (PGaaS)", Applied Sciences, Vol. 12, No. 13, p. 1562, 2022 
+- J. Bojato, M. Jimeno, R. Polanco, ["Password Guessability as a Service (PGaaS)"](https://www.mdpi.com/2076-3417/12/3/1562), Applied Sciences, Vol. 12, No. 13, p. 1562, 2022 
 - J. Ariza, M. Jimeno, R. Villanueva-Polanco, J. Capacho, "Provisioning Computational Resources for Cloud-Based e-Learning Platforms Using Deep Learning Techniques," IEEE Access, Vol. 9, 2021 
 - M. Adarme, M. Jimeno, "QoS-Based Pattern Recognition Approach for Web Service Discovery: Ar_WSDS," Applied Sciences, Vol 11, No. 17, pp. 8092. 2021 
 - M. Barrios, M. Jimeno, P. Villalba, E. Navarro, "Framework to Diagnose the Metabolic Syndrome Types without Using a Blood Test Based on Machine Learning," Applied Sciences, Vol 10., No. 23, p. 8404. Nov, 2020. 
