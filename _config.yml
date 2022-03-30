@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
  	plugins:
  	- jekyll-seo-tag
-show_downloads: true
+name: "Miguel Jimeno, PhD"
+title: "Miguel Jimeno, PhD"
