@@ -2,13 +2,11 @@
 
 ## Journal Papers:
 - J. Bojato, M. Jimeno, R. Polanco, ["Password Guessability as a Service (PGaaS)"](https://www.mdpi.com/2076-3417/12/3/1562), Applied Sciences, Vol. 12, No. 13, p. 1562, 2022 
-- J. Ariza, M. Jimeno, R. Villanueva-Polanco, J. Capacho, "Provisioning Computational Resources for Cloud-Based e-Learning Platforms Using Deep Learning Techniques," IEEE Access, Vol. 9, 2021 
-- M. Adarme, M. Jimeno, "QoS-Based Pattern Recognition Approach for Web Service Discovery: Ar_WSDS," Applied Sciences, Vol 11, No. 17, pp. 8092. 2021 
-- M. Barrios, M. Jimeno, P. Villalba, E. Navarro, "Framework to Diagnose the Metabolic Syndrome Types without Using a Blood Test Based on Machine Learning," Applied Sciences, Vol 10., No. 23, p. 8404. Nov, 2020. 
-- M. Gamarra, E. Zurek, W. Nieto, M. Jimeno, D. Sierra, "Spiral-Based Model for Software Architecture in Bio-image Analysis: A Case Study in RSV Cell Infection," ICCISIM 2020, p. 25-38, Oct. 16, 2020. 
-- M. Jimeno, P. Wightman, A. Salazar, L. Garcia, J. Capacho, "Video games development as an opportunity for social impact," 2020 GMAX, p. 1-6, Sept 9, 2020. 
-- M. Barrios, M. Jimeno, P. Villalba, E. Navarro, "Novel Data Mining Methodology for Healthcare Applied to a New Model to Diagnose Metabolic Syndrome without a Blood Test," Diagnostics 9 (4), 192, Oct. 2019. 
-- J. Capacho, M. Jimeno, A. Salazar, "Operational Indicators of the Learning Management System in Virtual Spaces Supported by ICT." Turkish Online Journal of Distance Education (TOJDE), vol. 20, no. 3, 2019. 
+- J. Ariza, M. Jimeno, R. Villanueva-Polanco, J. Capacho, ["Provisioning Computational Resources for Cloud-Based e-Learning Platforms Using Deep Learning Techniques,"](https://ieeexplore.ieee.org/document/9459736) IEEE Access, Vol. 9, 2021 
+- M. Adarme, M. Jimeno, ["QoS-Based Pattern Recognition Approach for Web Service Discovery: Ar_WSDS,"](https://www.mdpi.com/2076-3417/11/17/8092) Applied Sciences, Vol 11, No. 17, pp. 8092. 2021 
+- M. Barrios, M. Jimeno, P. Villalba, E. Navarro, ["Framework to Diagnose the Metabolic Syndrome Types without Using a Blood Test Based on Machine Learning,"](https://www.mdpi.com/2076-3417/10/23/8404) Applied Sciences, Vol 10., No. 23, p. 8404. Nov, 2020. 
+- M. Barrios, M. Jimeno, P. Villalba, E. Navarro, ["Novel Data Mining Methodology for Healthcare Applied to a New Model to Diagnose Metabolic Syndrome without a Blood Test,"](https://www.mdpi.com/2075-4418/9/4/192/htm) Diagnostics 9 (4), 192, Oct. 2019. 
+- J. Capacho, M. Jimeno, A. Salazar, ["Operational Indicators of the Learning Management System in Virtual Spaces Supported by ICT."](https://dergipark.org.tr/en/pub/tojde/issue/47406/601907) Turkish Online Journal of Distance Education (TOJDE), vol. 20, no. 3, 2019. 
 - P. Wightman, W. Nieto, J. Vega, M. Jimeno, L. Garcia, M. Pardo, D. Gomez, E. Britton, A. Perez. “Diamante digital, una apuesta territorial por el desarrollo a partir de las TIC,” Revista Colombiana de Computación, vol. 20, no. 1, pp. 6-22, 2019.  
 - N. Tellez, M. Jimeno, A. Salazar, and E. Nino-Ruiz, “A Tabu Search Method for Load Balancing in Fog Computing,” Int. J. Artif. Intell., vol. 16, no. 2, Oct. 2018. 
 - M. Zurbaran, P. Wightman, M. Brovelli, D. Oxoli, M. Iliffe, M. Jimeno, A. Salazar, “NRand-K: Minimizing the Impact of Location Obfuscation in Spatial Analysis,” Transactions in GIS, May, 2018.  
@@ -23,6 +21,8 @@
 - M. Jimeno, K. Christensen, and A. Roginsky, “Two-Tier Bloom Filter to Achieve Faster Membership Testing,” IET Electronics Letters, Vol. 44, No. 7, March 27, 2008. 
 
 ## Conference proceedings:
+- M. Gamarra, E. Zurek, W. Nieto, M. Jimeno, D. Sierra, "Spiral-Based Model for Software Architecture in Bio-image Analysis: A Case Study in RSV Cell Infection," ICCISIM 2020, p. 25-38, Oct. 16, 2020. 
+- M. Jimeno, P. Wightman, A. Salazar, L. Garcia, J. Capacho, "Video games development as an opportunity for social impact," 2020 GMAX, p. 1-6, Sept 9, 2020.
 - M. Diaz-Mora, M. Diaz-Rodriguez, M. Jimeno, "Definition and Validation of an Energy Savings Process for Computers Based on User Behaviors and Profiles," IEEE WiMob 2017, October 9-11, pp. 9-16. 2017. 
 - Y. Hernández, N. Leal, W. Bernal, M. Jimeno, H. Muñoz, “Framework for the Development of Business Intelligence Using Computational Intelligence and Service-Oriented Architecture,” CISTI 2017, June 21-24. pp. 1-7. 2017. 
 - M. Gamarra, E. Zurek, W. Nieto, M. Jimeno, D. Sierra, “A Service-Oriented Architecture for Bioinformatics: An Application in Cell Image Analysis,” In Recent Advances in Information Systems and Technologies. WorldCIST 2017. Advances in Intelligent Systems and Computing, vol 569. Springer, Cham. 
