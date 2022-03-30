@@ -6,10 +6,10 @@ Accomplished Computer Science Associate Professor with 12+ years of experience b
 
 Contact:
 
-<img src="images/linkedin.png" width="52" height="52>
-<a href="https://www.linkedin.com/in/miguel-jimeno-7a69581/"></a>
-<a href="https://github.com/mikejim"><img src="images/github.png" width="52" height="52></a>
-<img src="images/gmail.png" width="52" height="52> (migueljimeno at gmail dot com)
+
+<a href="https://www.linkedin.com/in/miguel-jimeno-7a69581/"><img src="images/linkedin.png" width="52" height="52"></a>
+<a href="https://github.com/mikejim"><img src="images/github.png" width="52" height="52"></a>
+<img src="images/gmail.png" width="52" height="52"> (migueljimeno at gmail dot com)
 
 Highlighted publications:
 
