@@ -3,3 +3,19 @@ theme: jekyll-theme-cayman
  	- jekyll-seo-tag
 name: "Miguel Jimeno, PhD"
 title: "Miguel Jimeno, PhD"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Articles"
+      href: articles.html
+    - text: "Teaching"
+      href: edu.html
+    - text: "Talks"
+      href: talks.html
+    - text: "CV"
+      href: https://laderast.github.io/cv/
+    - text: "Blog"
+      href: blog.html
+    - icon: fab fa-github
+      href: https://github.com/laderast/
