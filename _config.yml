@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
- 	plugins:
- 	- jekyll-seo-tag
 name: "Miguel Jimeno, PhD"
 title: "Miguel Jimeno, PhD"
 navbar:
