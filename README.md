@@ -12,6 +12,7 @@ Contact:
 
 ## Highlighted publications:
 
+- A. Reyes, M. Jimeno, R. Polanco, [Continuous and Secure Integration Framework for Smart Contracts](https://www.mdpi.com/1424-8220/23/1/541), Sensors, Vol. 23, No. 1, p. 1, 2023
 - J. Bojato, M. Jimeno, R. Polanco, ["Password Guessability as a Service (PGaaS)"](https://www.mdpi.com/2076-3417/12/3/1562), Applied Sciences, Vol. 12, No. 13, p. 1562, 2022 
 - J. Ariza, M. Jimeno, R. Villanueva-Polanco, J. Capacho, ["Provisioning Computational Resources for Cloud-Based e-Learning Platforms Using Deep Learning Techniques,"](https://ieeexplore.ieee.org/document/9459736) IEEE Access, Vol. 9, 2021 
 - M. Adarme, M. Jimeno, ["QoS-Based Pattern Recognition Approach for Web Service Discovery: Ar_WSDS,"](https://www.mdpi.com/2076-3417/11/17/8092) Applied Sciences, Vol 11, No. 17, pp. 8092. 2021 
