@@ -1,6 +1,8 @@
 # Publications
 
 ## Journal Papers:
+
+- H. Robles, M. Jimeno, K. Villalba, I. Mardini, C. Viloria-Nuñez, W. Florian [Design of a micro-learning framework and mobile application using design-based research](https://peerj.com/articles/cs-1223/), PeerJ Computer Science, Vol. 9, No. 1, p. 1, 2023.
 - M. Barrios, M. Jimeno, E. Navarro, P. Villalba, Y. Hernandez, [Decision Tree as a screening tool for the diagnosis of the Metabolic Syndrome without doing a blood test](http://www.ceser.in/ceserp/index.php/ijai/article/view/6915), IJAI, Vol. 21, No. 1, p. 109-131, 2023
 - A. Reyes, M. Jimeno, R. Polanco, ["Continuous and Secure Integration Framework for Smart Contracts"](https://www.mdpi.com/1424-8220/23/1/541), Sensors, Vol. 23, No. 1, p. 541, 2023
 - J. Bojato, M. Jimeno, R. Polanco, ["Password Guessability as a Service (PGaaS)"](https://www.mdpi.com/2076-3417/12/3/1562), Applied Sciences, Vol. 12, No. 13, p. 1562, 2022 
@@ -23,6 +25,8 @@
 - M. Jimeno, K. Christensen, and A. Roginsky, “Two-Tier Bloom Filter to Achieve Faster Membership Testing,” IET Electronics Letters, Vol. 44, No. 7, March 27, 2008. 
 
 ## Conference proceedings:
+
+- M. Jimeno, N. Buitrago, H. Camacho, C. Viloria-Nuñez, J. cardona, [CIEMS: A Review Towards a Collaborative Industrial Emergency Management Information System](https://link.springer.com/chapter/10.1007/978-3-031-32213-6_32), SmartTech 2022, pp. 439-452, 2022.
 - M. Gamarra, E. Zurek, W. Nieto, M. Jimeno, D. Sierra, "Spiral-Based Model for Software Architecture in Bio-image Analysis: A Case Study in RSV Cell Infection," ICCISIM 2020, p. 25-38, Oct. 16, 2020. 
 - M. Jimeno, P. Wightman, A. Salazar, L. Garcia, J. Capacho, "Video games development as an opportunity for social impact," 2020 GMAX, p. 1-6, Sept 9, 2020.
 - M. Diaz-Mora, M. Diaz-Rodriguez, M. Jimeno, "Definition and Validation of an Energy Savings Process for Computers Based on User Behaviors and Profiles," IEEE WiMob 2017, October 9-11, pp. 9-16. 2017. 
