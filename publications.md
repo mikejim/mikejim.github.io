@@ -2,8 +2,8 @@
 
 ## Journal Papers:
 
-- K. Villalba, M. Jimeno, H. Robles, L. Vergara, C. Sinning; L. Lizcano, [Eyeland: a visually-impaired accessible English learning application using a Design Based Research framework](https://ieeexplore.ieee.org/abstract/document/10637399), IEEE Access, Vol 12, 2024
-- H. Robles, A. Perez, K. Villalba, MC Delgado-Cañas, E. Villanueva, C. Keogh, M. Jimeno [Language learning apps for visually impaired users: a systematic review](https://rptel.apsce.net/index.php/RPTEL/article/view/2024-19012), RPTEL, Vol. 19, 2024.
+- K. Villalba, M. Jimeno, H. Robles, L. Vergara, C. Sinning, L. Lizcano, "[Eyeland: a visually-impaired accessible English learning application using a Design Based Research framework]"(https://ieeexplore.ieee.org/abstract/document/10637399), IEEE Access, Vol 12, 2024
+- H. Robles, A. Perez, K. Villalba, MC Delgado-Cañas, E. Villanueva, C. Keogh, M. Jimeno, "[Language learning apps for visually impaired users: a systematic review]"(https://rptel.apsce.net/index.php/RPTEL/article/view/2024-19012), RPTEL, Vol. 19, 2024.
 - H. Robles, M. Jimeno, K. Villalba, I. Mardini, C. Viloria-Nuñez, W. Florian [Design of a micro-learning framework and mobile application using design-based research](https://peerj.com/articles/cs-1223/), PeerJ Computer Science, Vol. 9, No. 1, p. 1, 2023.
 - M. Barrios, M. Jimeno, E. Navarro, P. Villalba, Y. Hernandez, [Decision Tree as a screening tool for the diagnosis of the Metabolic Syndrome without doing a blood test](http://www.ceser.in/ceserp/index.php/ijai/article/view/6915), IJAI, Vol. 21, No. 1, p. 109-131, 2023
 - A. Reyes, M. Jimeno, R. Polanco, ["Continuous and Secure Integration Framework for Smart Contracts"](https://www.mdpi.com/1424-8220/23/1/541), Sensors, Vol. 23, No. 1, p. 541, 2023
