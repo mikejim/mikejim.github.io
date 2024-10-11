@@ -2,7 +2,7 @@
 
 <img src="images/migueljimeno.jpg" width="200" height="200">
 
-Computer Science professor with 15+ years of experience in leading research and software implementation and data modeling projects using Python, SQL Server and Azure Data Factory. Senior Software Engineer with experience in distributed systems design using C#, Java, and Azure web services.
+I am a seasoned Computer Science professor with over 15 years of multidisciplinary experience in software development, data engineering, and distributed systems. He specializes in cloud services and data modeling, utilizing Python, SQL Server, Azure Data Factory, and PostgreSQL, among other tools. His expertise spans leading academic and industry projects, mentoring graduate students, and publishing extensively in areas like cloud computing and machine learning. He holds senior roles at IEEE and has been recognized with prestigious awards, including the Fulbright NEXUS grant.
 
 Contact:
 
@@ -12,6 +12,8 @@ Contact:
 
 ## Highlighted publications:
 
+- K. Villalba, M. Jimeno, H. Robles, L. Vergara, C. Sinning, L. Lizcano, [Eyeland: a visually-impaired accessible English learning application using a Design Based Research framework](https://ieeexplore.ieee.org/abstract/document/10637399), IEEE Access, Vol 12, 2024
+- H. Robles, A. Perez, K. Villalba, MC Delgado-Cañas, E. Villanueva, C. Keogh, M. Jimeno, [Language learning apps for visually impaired users: a systematic review](https://rptel.apsce.net/index.php/RPTEL/article/view/2024-19012), RPTEL, Vol. 19, 2024.
 - A. Reyes, M. Jimeno, R. Polanco, [Continuous and Secure Integration Framework for Smart Contracts](https://www.mdpi.com/1424-8220/23/1/541), Sensors, Vol. 23, No. 1, p. 1, 2023
 - J. Bojato, M. Jimeno, R. Polanco, ["Password Guessability as a Service (PGaaS)"](https://www.mdpi.com/2076-3417/12/3/1562), Applied Sciences, Vol. 12, No. 13, p. 1562, 2022 
 - J. Ariza, M. Jimeno, R. Villanueva-Polanco, J. Capacho, ["Provisioning Computational Resources for Cloud-Based e-Learning Platforms Using Deep Learning Techniques,"](https://ieeexplore.ieee.org/document/9459736) IEEE Access, Vol. 9, 2021 
