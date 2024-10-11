@@ -2,6 +2,7 @@
 
 ## Journal Papers:
 
+- K. Villalba, M. Jimeno, H. Robles, L. Vergara, C. Sinning; L. Lizcano, [Eyeland: a visually-impaired accessible English learning application using a Design Based Research framework](https://ieeexplore.ieee.org/abstract/document/10637399), IEEE Access, Vol 12, 2024
 - H. Robles, A. Perez, K. Villalba, MC Delgado-Cañas, E. Villanueva, C. Keogh, M. Jimeno [Language learning apps for visually impaired users: a systematic review](https://rptel.apsce.net/index.php/RPTEL/article/view/2024-19012), RPTEL, Vol. 19, 2024.
 - H. Robles, M. Jimeno, K. Villalba, I. Mardini, C. Viloria-Nuñez, W. Florian [Design of a micro-learning framework and mobile application using design-based research](https://peerj.com/articles/cs-1223/), PeerJ Computer Science, Vol. 9, No. 1, p. 1, 2023.
 - M. Barrios, M. Jimeno, E. Navarro, P. Villalba, Y. Hernandez, [Decision Tree as a screening tool for the diagnosis of the Metabolic Syndrome without doing a blood test](http://www.ceser.in/ceserp/index.php/ijai/article/view/6915), IJAI, Vol. 21, No. 1, p. 109-131, 2023
@@ -27,6 +28,7 @@
 
 ## Conference proceedings:
 
+- M. Barrios, A. Iglesias, F. Mendez, M. Jimeno, D. Jabba, N. Tellez, Y. Hernandez[Developing Comfort Monitoring Prototype Using IoT and Cloud Computing](https://link.springer.com/chapter/10.1007/978-3-031-71115-2_8), CISIM, 2024.
 - M. Jimeno, N. Buitrago, H. Camacho, C. Viloria-Nuñez, J. cardona, [CIEMS: A Review Towards a Collaborative Industrial Emergency Management Information System](https://link.springer.com/chapter/10.1007/978-3-031-32213-6_32), SmartTech 2022, pp. 439-452, 2022.
 - M. Gamarra, E. Zurek, W. Nieto, M. Jimeno, D. Sierra, "Spiral-Based Model for Software Architecture in Bio-image Analysis: A Case Study in RSV Cell Infection," ICCISIM 2020, p. 25-38, Oct. 16, 2020. 
 - M. Jimeno, P. Wightman, A. Salazar, L. Garcia, J. Capacho, "Video games development as an opportunity for social impact," 2020 GMAX, p. 1-6, Sept 9, 2020.
